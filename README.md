@@ -18,9 +18,9 @@
 
 ---
 
-### 📊 Lenguajes más usados
+### 📊 My Stats
 
-![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=genavarela&show_icons=true&theme=dark)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=genavarela&show_icons=true&theme=radical)
 
 ---
 
