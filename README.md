@@ -1,18 +1,13 @@
 <!-- Banner con fondo (puedes reemplazar con otro link de imagen si deseas) -->
 <p align="center">
-  <img src="https://i.imgur.com/2yaf2wb.png" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">Hola 👋, soy Genaro</h1>
-<h3 align="center">Desarrollador con 6+ años de experiencia construyendo cosas en la web 💻</h3>
+<h3 align="center">Tengo 13 años, y estoy aprendiendo a developear diferentes cosas que me divierten.💻</h3>
 
 ---
 
 ### 🧰 Herramientas que uso
-git add README.md
-git commit -m "Actualiza README de perfil"
-git push origin main
-
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
