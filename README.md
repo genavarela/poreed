@@ -1,49 +1,47 @@
-<!-- Imagen de fondo opcional (como banner) -->
+<!-- Banner con fondo (puedes reemplazar con otro link de imagen si deseas) -->
 <p align="center">
-  <img src="https://your-banner-image-url.com" width="100%" alt="Banner">
+  <img src="https://i.imgur.com/2yaf2wb.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hola 👋, soy <span style="color:#4fc3f7;">Sdeyy</span></h1>
-<h3 align="center">💻 Desarrollador con más de 6 años de experiencia 💼</h3>
+<h1 align="center">Hola 👋, soy Genaro</h1>
+<h3 align="center">Desarrollador con 6+ años de experiencia construyendo cosas en la web 💻</h3>
 
-<p align="center">
-  <a href="https://discord.com/users/TU_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+---
+
+### 🧰 Herramientas que uso
+git add README.md
+git commit -m "Actualiza README de perfil"
+git push origin main
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/DiscordJS-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
+
+---
+
+### 📊 Lenguajes más usados
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genavarela&layout=compact&theme=radical)
+
+---
+
+### 📫 ¿Dónde encontrarme?
+
+<p align="left">
+  <a href="https://discord.com/users/tuID" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://github.com/Sdeyy" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/genavarela" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🧰 Herramientas que utilizo
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-</p>
-
----
-
-### 📊 Estadísticas
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sdeyy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🚀 Sobre mí
-- 🔭 Actualmente trabajando en proyectos personales
-- 🌱 Aprendiendo nuevas tecnologías como **Next.js** y **Docker**
-- 🤝 Abierto a colaborar en proyectos interesantes
-- 📫 Contáctame: sdeyy@example.com
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sdeyy&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=genavarela&label=Visitas&color=blue&style=flat" alt="genavarela" />
 </p>
