@@ -20,7 +20,7 @@
 
 ### 📊 Lenguajes más usados
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=genavarela&layout=compact&theme=radical)
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=genavarela&show_icons=true&theme=dark)
 
 ---
 
